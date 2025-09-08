@@ -24,6 +24,8 @@ conifold geometry.nb -- checking the geometry of the (deformed) conifold
 
 gamma matrices.nb -- Dirac gamma matrices in general dimensions and checking 4D conventions
 
+special geometry.nb -- checking special Kahler geometry relations
+
 spinfield cocycles.nb -- checking cocycle phases in the OPE of SO(8) spin fields and spin fields in the NSR worldsheet theory
 
 string coupling conventions.nb -- summarizing and checking conventions involving string couplings and brane tensions in the book
