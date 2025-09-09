@@ -4,6 +4,8 @@ Mathematica codes for checking various calculations in the string notes
 
 2D susy variations.nb -- checks local supersymmetry variations of the superstring worldsheet action in the form of Brink-Di Vecchia-Howe
 
+BES equation.nb -- numerical solution of the integral equation of Beisert, Eden, and Staudacher following the approach of hep-th/0611135
+
 Conformal blocks and bootstrap demo.nb -- global 2D conformals blocks and 3D,4D conformal blocks with external scalar primaries, demonstrating crude bootstrap bounds via semidefinite optimization
 
 ConformalBlock.m -- package by Ying-Hsuan Lin (2016) for computing Virasoro conformal blocks through Zamolodchikov's recursion relations
