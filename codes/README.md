@@ -12,6 +12,8 @@ ConformalBlock.m -- package by Ying-Hsuan Lin (2016) for computing Virasoro conf
 
 G2 conical geometry.nb -- checking the G2 holonomy manifold with asymptotic conical geometry over (SU(2)^3)/SU(2) base in the form of Gibbons, Page, Pope, and checking the associative 3-form
 
+GS kappa symmetry.nb -- direct verification of kappa symmetry of the Green-Schwarz action of superstring in 10D Minkowskian spacetime
+
 Instanton and anomalies.nb -- checking Yang-Mills instanton solution and separately anomaly polynomials in 10D
 
 Liouville CFT.nb -- numerical evaluation of 4-point correlator in the Liouville CFT and checking that the DOZZ structure constants obey crossing invariance
