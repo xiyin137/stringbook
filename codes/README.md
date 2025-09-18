@@ -1,8 +1,8 @@
 Mathematica codes for checking various calculations in the string notes
 
-2D superspace.nb -- checks sign conventions in the (1,1) and (2,2) superspace actions
+2D superspace.nb -- checks sign conventions in the (1,1) and (2,2) superspace actions, and relations involving (2,0) superfields
 
-2D susy variations.nb -- checks local supersymmetry variations of the superstring worldsheet action in the form of Brink-Di Vecchia-Howe
+2D local susy variations.nb -- checks local supersymmetry variations of the superstring worldsheet action in the form of Brink-Di Vecchia-Howe
 
 BES equation.nb -- numerical solution of the integral equation of Beisert, Eden, and Staudacher following the approach of hep-th/0611135
 
