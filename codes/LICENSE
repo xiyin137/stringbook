@@ -1,0 +1,37 @@
+License for original companion code
+
+Unless otherwise stated in a file, original Mathematica notebooks and companion
+code in this directory authored by Xi Yin are licensed under the MIT License
+below. In the MIT text below, "Software" refers only to those original files.
+
+This license does not apply to external third-party dependency packages used by
+some notebooks, including:
+
+- ConformalBlock.m, by Ying-Hsuan Lin, copyright 2016
+- Ricci.m, by Juan M. Aguirregabiria, copyright 1989-2002
+
+Those files are not included in this repository. If placed here locally for
+running notebooks, they retain their own author notices and license terms and
+are not covered by this license.
+
+MIT License
+
+Copyright (c) 2026 Xi Yin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

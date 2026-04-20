@@ -1,4 +1,21 @@
-Mathematica codes for checking various calculations in the string notes
+Mathematica codes for checking various calculations in the string notes.
+
+Original companion notebooks and code authored by Xi Yin are under the MIT
+License; see LICENSE. Some notebooks use external third-party dependency
+packages that are not included or licensed by this repository:
+
+- ConformalBlock.m, by Ying-Hsuan Lin, for Virasoro conformal blocks
+- Ricci.m, by Juan M. Aguirregabiria, for Riemannian curvatures
+
+Known dependencies:
+
+- Liouville CFT.nb uses ConformalBlock.m.
+- conifold geometry.nb, G2 conical geometry.nb, and special geometry.nb use Ricci.m.
+
+Place local copies of these files in this directory only if needed and only under
+their own applicable terms. Some notebooks may still contain old absolute load
+paths; adjust the load path or put the dependency package on Mathematica's $Path
+before running those cells.
 
 2D local susy variations.nb -- checks local supersymmetry variations of the superstring worldsheet action in the form of Brink-Di Vecchia-Howe
 
@@ -10,8 +27,6 @@ BES equation.nb -- numerical solution of the integral equation of Beisert, Eden,
 
 Conformal blocks and bootstrap demo.nb -- global 2D conformals blocks and 3D,4D conformal blocks with external scalar primaries, demonstrating crude bootstrap bounds via semidefinite optimization
 
-ConformalBlock.m -- package by Ying-Hsuan Lin (2016) for computing Virasoro conformal blocks through Zamolodchikov's recursion relations
-
 G2 conical geometry.nb -- checking the G2 holonomy manifold with asymptotic conical geometry over (SU(2)^3)/SU(2) base in the form of Gibbons, Page, Pope, and checking the associative 3-form
 
 GS kappa symmetry.nb -- direct verification of kappa symmetry of the Green-Schwarz action of superstring in 10D Minkowskian spacetime
@@ -19,8 +34,6 @@ GS kappa symmetry.nb -- direct verification of kappa symmetry of the Green-Schwa
 Instanton and anomalies.nb -- checking Yang-Mills instanton solution and separately anomaly polynomials in 10D
 
 Liouville CFT.nb -- numerical evaluation of 4-point correlator in the Liouville CFT and checking that the DOZZ structure constants obey crossing invariance
-
-Ricci.m - package by Juan M. Aguirregabiria (2002) for computing Riemannian curvatures
 
 Type II basic worldsheet calculations.nb -- computation of OPEs in the NS sector of the superstring worldsheet, and the tree-level graviton 4-point amplitude
 

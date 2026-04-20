@@ -1,0 +1,36 @@
+# macOS metadata
+.DS_Store
+
+# Third-party Mathematica dependency packages used locally by some notebooks.
+/codes/ConformalBlock.m
+/codes/Ricci.m
+
+# LaTeX build artifacts from compiling texsource/string notes.tex.
+# Keep the published root PDF trackable, and keep figure PDFs under
+# texsource/figures/ trackable.
+/texsource/*.aux
+/texsource/*.bbl
+/texsource/*.bcf
+/texsource/*.blg
+/texsource/*.fdb_latexmk
+/texsource/*.fls
+/texsource/*.glg
+/texsource/*.glo
+/texsource/*.gls
+/texsource/*.idx
+/texsource/*.ilg
+/texsource/*.ind
+/texsource/*.ist
+/texsource/*.lof
+/texsource/*.log
+/texsource/*.lot
+/texsource/*.nav
+/texsource/*.out
+/texsource/*.pdf
+/texsource/*.run.xml
+/texsource/*.snm
+/texsource/*.synctex
+/texsource/*.synctex.gz
+/texsource/*.toc
+/texsource/*.vrb
+/texsource/*.xdv
